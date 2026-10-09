@@ -34,3 +34,7 @@ Identify sales trends, profitable categories, customer segments, and products th
 
 ## Conclusion
 This project demonstrates dashboard development, data visualisation, and business-focused sales and profitability analysis using Power BI.
+
+## Dashboard Preview
+
+![Superstore Power BI Dashboard](Superstore_Dashboard.png)
