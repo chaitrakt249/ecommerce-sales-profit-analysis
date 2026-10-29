@@ -3,8 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Project folder = same folder where this Python file is saved
-ROOT = Path.cwd()
-
+ROOT = Path(__file__).resolve().parent
 # Dataset is in the same GitHub folder
 DATA = ROOT / "Sample - Superstore.csv"
 
