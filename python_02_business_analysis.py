@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Project folder = where this Python file is located
-ROOT = Path.cwd()
+ROOT = Path(__file__).resolve().parent
 
 # Cleaned dataset created by Python 01
 DATA = ROOT / "superstore_cleaned.csv"
